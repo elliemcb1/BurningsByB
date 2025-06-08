@@ -104,6 +104,11 @@ ul {
 
 
 
+.gallery-section h2 {
+    margin-bottom: 20px;
+}
+
+
 
 .overlay {
     position: absolute;
