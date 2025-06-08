@@ -102,7 +102,11 @@ ul {
     font-size: 40px;
 }
 
-
+.gallery-section {
+    background-color: #eee;
+    padding: 30px 10px;
+    text-align: center;
+}
 
 .gallery-section h2 {
     margin-bottom: 20px;
