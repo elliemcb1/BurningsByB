@@ -88,6 +88,10 @@ ul {
   align-items: center;
 }
 
+.Heading{
+    padding-right:40px;
+    font-size:40px;
+}
 
 .gallery-section {
   background-color: #eee;
@@ -186,7 +190,9 @@ footer {
   .nav-links.active {
     display: flex;
   }
-
+.Heading{
+    font-size:15px;
+}
   .menu-toggle {
     display: block;
   }
