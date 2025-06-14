@@ -12,7 +12,9 @@ body {
     color: #333;
 }
 
-
+h1{
+    font-size:2em;
+}
 .caveat {
     font-family: "Caveat", cursive;
     font-optical-sizing: auto;
@@ -223,6 +225,9 @@ footer {
 
     .home {
         margin-top: 20px;
+    }
+    h1{
+        font-size:24px;
     }
 }
 
