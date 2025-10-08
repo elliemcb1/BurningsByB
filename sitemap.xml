@@ -7,19 +7,24 @@
 
   <url>
     <loc>https://burningsbyb.netlify.app/</loc>
-    <lastmod>2025-06-08</lastmod>
+    <lastmod>2025-10-08</lastmod>
     <priority>1.00</priority>
   </url>
 
   <url>
     <loc>https://burningsbyb.netlify.app/customWork.html</loc>
-    <lastmod>2025-06-08</lastmod>
+    <lastmod>2025-10-08</lastmod>
     <priority>0.90</priority>
   </url>
 
   <url>
     <loc>https://burningsbyb.netlify.app/sitemap.xml</loc>
-    <lastmod>2025-06-08</lastmod>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.10</priority>
+  </url>
+    <url>
+    <loc>https://burningsbyb.netlify.app/gallery.html</loc>
+    <lastmod>2025-10-08</lastmod>
     <priority>0.10</priority>
   </url>
 
